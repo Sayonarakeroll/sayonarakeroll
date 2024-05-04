@@ -7,6 +7,6 @@
 
 ## Tecnologia usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayonarakeroll&hide_progress=true&bg_color=FF0000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayonarakeroll&hide_progress=true&bg_color=radical)
 
 
