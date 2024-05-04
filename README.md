@@ -1,10 +1,12 @@
-### Hi there 👋
+### Olá, Eu sou Sayonara França.👋
 
-[![Sayoco]]
+[![Linkedin]]
 
 (![Sayoco GitHub stats](https://github-readme-stats.vercel.app/api?username=sayonarakeroll&show_icons=true&theme=radical)
 
 
+## Tecnologia que uso
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayonarakeroll&hide_progress=true)
 
 
