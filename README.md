@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Linguagens%3A%20Java%2C%20JavaScript%2C%20R.;Banco%20de%20Dados%3A%20MySQL%2C%20PostgreSQL%2C%20H2.;Design%20e%20Prototipa%C3%A7%C3%A3o%3A%20Figma%2C%20Canva.;Modelagem%20de%20Processos%3A%20Bizagi%2C%20Draw.io.;Analise%20e%20Visualiza%C3%A7%C3%A3o%20de%20Dados%3A%20Looker%20Studio%2C%20Power%20BI.&font=Fira%20Code&center=true&width=700&height=50&color=F75C7E&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Linguagens%3A%20Java%2C%20JavaScript%2C%20R.;Banco%20de%20Dados%3A%20MySQL%2C%20PostgreSQL%2C%20H2.;Design%20e%20Prototipa%C3%A7%C3%A3o%3A%20Figma%2C%20Canva.;Modelagem%20de%20Processos%3A%20Bizagi%2C%20Draw.io.;Analise%20Visualiza%C3%A7%C3%A3o%20de%20Dados%3A%20Looker%20Studio%2C%20BI.&font=Fira%20Code&center=true&width=700&height=50&color=F75C7E&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
