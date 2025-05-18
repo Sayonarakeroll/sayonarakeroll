@@ -18,12 +18,12 @@
   </a>
 </p>
 
-## 
-![Snake animation](https://github.com/sayonarakeroll/sayonarakeroll/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribuições
+![Snake animation](https://github.com/Sayonarakeroll/Sayonarakeroll/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Para modo escuro -->
-![Snake animation](https://github.com/sayonarakeroll/sayonarakeroll/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Snake animation](https://github.com/sayonarakeroll/sayonarakeroll/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation](https://github.com/Sayonarakeroll/Sayonarakeroll/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://github.com/Sayonarakeroll/Sayonarakeroll/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sayonarakeroll&show_icons=true&theme=radical" />
