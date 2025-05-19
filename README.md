@@ -19,11 +19,8 @@
 </p>
 
 ## 🐍 Contribuições
-![Snake animation](https://github.com/Sayonarakeroll/Sayonarakeroll/blob/output/github-contribution-grid-snake.svg)
-
-<!-- Para modo escuro -->
-![Snake animation](https://github.com/Sayonarakeroll/Sayonarakeroll/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Snake animation](https://github.com/Sayonarakeroll/Sayonarakeroll/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Light](https://github.com/Sayonarakeroll/Sayonarakeroll/blob/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/Sayonarakeroll/Sayonarakeroll/blob/output/github-snake-dark.svg#gh-dark-mode-only)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sayonarakeroll&show_icons=true&theme=radical" />
