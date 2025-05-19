@@ -1,22 +1,50 @@
-<p align="center">
-  <span style="color: #D86C88;">Hi, Sayonara França 👩‍💻 </span>
-</p>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Linguagens%3A%20Java%2C%20JavaScript%2C%20R.;Banco%20de%20Dados%3A%20MySQL%2C%20PostgreSQL%2C%20H2.;Design%20e%20Prototipa%C3%A7%C3%A3o%3A%20Figma%2C%20Canva.;Modelagem%20de%20Processos%3A%20Bizagi%2C%20Draw.io.;Analise%20Visualiza%C3%A7%C3%A3o%20de%20Dados%3A%20Looker%20Studio%2C%20BI.&font=Fira%20Code&center=true&width=700&height=50&color=F75C7E&vCenter=true&pause=1000&size=22" />
-  </a>
-</p>
+ <div style="text-align: center;" align="center">
+  <h3>* GitHub Stats *</h3>
+  <br>
+  
+
+#
+
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](sayonarakerollyn@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/sayonara-fran%C3%A7a/)
 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sayonara-fran%C3%A7a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+<h3 align="left">My Stack ~</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
+  <img width="8" />
+</div>
+
+
+#
+
+<div style="text-align: center;" align="center">
+  <h3>* GitHub Stats *</h3>
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sayonarakeroll&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
+
+  <a href="https://github.com/Sayonarakeroll/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sayonarakeroll&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
   </a>
-  <a href="sayonarakerollyn@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+</div>
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sayonarakeroll/Sayonarakeroll/output/github-contribution-grid-snake-dark.svg">
@@ -24,11 +52,5 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sayonarakeroll/Sayonarakeroll/output/github-contribution-grid-snake.svg">
 </picture>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayonarakeroll&show_icons=true&theme=radical" />
-</p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayonarakeroll&hide_progress=true&theme=radical" />
-</p>
